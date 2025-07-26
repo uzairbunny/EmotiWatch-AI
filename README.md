@@ -27,19 +27,6 @@ Icons: Remix Icons for beautiful UI elements
 Charts: Recharts for analytics visualization
 State Management: React hooks for efficient state handling
 Getting Started
-Prerequisites
-Node.js 18+ - npm or yarn
-Installation```bash
-Clone the repositorygit clone https://github.com/yourusername/emotiwatch-ai.git# Navigate to project directory
-cd emotiwatch-ai
-
-Install dependencies
-npm install
-
-Start development server
-npm run dev
-
-
 Usage
 1. Start the Application: Open your browser to `http://localhost:3000`
 2. Grant Camera Access: Allow camera permissions when prompted
